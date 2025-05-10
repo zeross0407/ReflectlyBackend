@@ -1,0 +1,38 @@
+# Visual Studio files
+.vs/
+*.vsidx
+*.user
+*.userosscache
+*.suo
+*.userprefs
+bin/
+obj/
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+
+# Misc
+.env
+.env.local
+.DS_Store
+Thumbs.db 
